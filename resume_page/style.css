@@ -1,4 +1,12 @@
 h1 {
     text-align: center;
     color: plum;
+    font-family: cursive;
+}
+h3 {
+    color: blue;
+    padding-top: 50px;
+} 
+#personal-links {
+    padding-top: 50px
 }
