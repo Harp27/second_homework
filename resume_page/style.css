@@ -3,10 +3,14 @@ h1 {
     color: plum;
     font-family: cursive;
 }
+img {
+    border-radius: 100px
+}
 h3 {
     color: blue;
     padding-top: 50px;
 } 
 #personal-links {
     padding-top: 50px
+    
 }
