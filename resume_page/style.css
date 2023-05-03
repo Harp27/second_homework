@@ -4,13 +4,14 @@ h1 {
     font-family: cursive;
 }
 img {
-    border-radius: 100px
+    border-radius: 100px;
+    text-align: center;
 }
 h3 {
     color: blue;
     padding-top: 50px;
 } 
 #personal-links {
-    padding-top: 50px
+    padding-top: 50px;
     
 }
